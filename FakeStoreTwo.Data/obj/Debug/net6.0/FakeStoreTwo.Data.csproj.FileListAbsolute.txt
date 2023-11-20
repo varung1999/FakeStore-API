@@ -1,0 +1,12 @@
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\bin\Debug\net6.0\FakeStoreTwo.Data.deps.json
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\bin\Debug\net6.0\FakeStoreTwo.Data.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\bin\Debug\net6.0\FakeStoreTwo.Data.pdb
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\obj\Debug\net6.0\FakeStoreTwo.Data.csproj.AssemblyReference.cache
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\obj\Debug\net6.0\FakeStoreTwo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\obj\Debug\net6.0\FakeStoreTwo.Data.AssemblyInfoInputs.cache
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\obj\Debug\net6.0\FakeStoreTwo.Data.AssemblyInfo.cs
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\obj\Debug\net6.0\FakeStoreTwo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\obj\Debug\net6.0\FakeStoreTwo.Data.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\obj\Debug\net6.0\refint\FakeStoreTwo.Data.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\obj\Debug\net6.0\FakeStoreTwo.Data.pdb
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Data\obj\Debug\net6.0\ref\FakeStoreTwo.Data.dll

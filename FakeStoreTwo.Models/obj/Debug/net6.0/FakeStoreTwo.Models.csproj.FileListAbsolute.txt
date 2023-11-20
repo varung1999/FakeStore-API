@@ -1,0 +1,12 @@
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\bin\Debug\net6.0\FakeStoreTwo.Models.deps.json
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\bin\Debug\net6.0\FakeStoreTwo.Models.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\bin\Debug\net6.0\FakeStoreTwo.Models.pdb
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\obj\Debug\net6.0\FakeStoreTwo.Models.csproj.AssemblyReference.cache
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\obj\Debug\net6.0\FakeStoreTwo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\obj\Debug\net6.0\FakeStoreTwo.Models.AssemblyInfoInputs.cache
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\obj\Debug\net6.0\FakeStoreTwo.Models.AssemblyInfo.cs
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\obj\Debug\net6.0\FakeStoreTwo.Models.csproj.CoreCompileInputs.cache
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\obj\Debug\net6.0\FakeStoreTwo.Models.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\obj\Debug\net6.0\refint\FakeStoreTwo.Models.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\obj\Debug\net6.0\FakeStoreTwo.Models.pdb
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Models\obj\Debug\net6.0\ref\FakeStoreTwo.Models.dll

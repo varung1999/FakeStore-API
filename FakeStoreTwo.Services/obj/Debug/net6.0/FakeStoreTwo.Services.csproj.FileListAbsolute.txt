@@ -1,0 +1,17 @@
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\bin\Debug\net6.0\FakeStoreTwo.Services.deps.json
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\bin\Debug\net6.0\FakeStoreTwo.Services.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\bin\Debug\net6.0\FakeStoreTwo.Services.pdb
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\bin\Debug\net6.0\FakeStoreTwo.Data.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\bin\Debug\net6.0\FakeStoreTwo.Models.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\bin\Debug\net6.0\FakeStoreTwo.Data.pdb
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\bin\Debug\net6.0\FakeStoreTwo.Models.pdb
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\FakeStoreTwo.Services.csproj.AssemblyReference.cache
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\FakeStoreTwo.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\FakeStoreTwo.Services.AssemblyInfoInputs.cache
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\FakeStoreTwo.Services.AssemblyInfo.cs
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\FakeStoreTwo.Services.csproj.CoreCompileInputs.cache
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\FakeStoreTwo.Services.csproj.CopyComplete
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\FakeStoreTwo.Services.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\refint\FakeStoreTwo.Services.dll
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\FakeStoreTwo.Services.pdb
+C:\Users\Varun.Gollapalli\source\repos\FakeStoreTestTwo\FakeStoreTwo.Services\obj\Debug\net6.0\ref\FakeStoreTwo.Services.dll
